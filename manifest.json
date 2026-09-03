@@ -1,0 +1,7 @@
+{
+ "versionCode": 2,
+ "versionName": "1.1.0",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora/releases/download/v1.1.0-2/ora-1.1.0-2.apk",
+ "sha256": "4388B5F5BCA99C494FA80CE9A0186FA4854AF0ED7A6885320D7E8BCE5AB5656B",
+ "notes": "Bible complete : 16 traductions hors ligne, lecteur de chapitres avec parallele, recherche. Lecture a voix haute (TTS) avec mini-lecteur. Notifications des offices avec horaires personnalises. Auto-mise-a-jour securisee (SHA-256 obligatoire)."
+}
