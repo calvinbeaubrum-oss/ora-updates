@@ -1,7 +1,7 @@
 {
- "versionCode": 2,
- "versionName": "1.1.0",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.1.0-2/ora-1.1.0-2.apk",
- "sha256": "4388B5F5BCA99C494FA80CE9A0186FA4854AF0ED7A6885320D7E8BCE5AB5656B",
- "notes": "Bible complete : 16 traductions hors ligne, lecteur de chapitres avec parallele, recherche. Lecture a voix haute (TTS) avec mini-lecteur. Notifications des offices avec horaires personnalises. Auto-mise-a-jour securisee (SHA-256 obligatoire)."
+ "versionCode": 4,
+ "versionName": "1.2.0",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.2.0-4/app-release.apk",
+ "sha256": "55A7B03F3D45CAB67C8F73540719FCAF567267F236D15AB7613E0028B87C5ED1",
+ "notes": "Beta 1.2.0 sur la base 1.1.0 : fix lisibilite nuit (textes blancs lisibles), fix navigation Reglages, verre liquide enrichi, pilule des chapitres, zoom a deux doigts, marquage de passages, homelies, Expliquer chaque lecture, saints locaux, 2 langues, telechargement de Bibles, notes chiffrees, texte du matin + canal du createur, questionnaire daccueil, memoire et suppression selective, mode Eglise."
 }
