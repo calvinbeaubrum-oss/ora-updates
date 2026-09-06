@@ -1,0 +1,32 @@
+[
+ {
+  "versionCode": 5,
+  "versionName": "1.2.1",
+  "tag": "v1.2.1-5",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.2.1-5/app-release.apk",
+  "sha256": "A6FA01943C9973764E201A1CD34526792B7994C2EB754181B8FB225E2C280CA1",
+  "notes": "FIX majeur : mise a jour bloquee depuis la 1.1.0 (permission installateur). Auto-verif du canal + notification. Zoom pince partout. Detection langue du telephone. Missel bilingue creole (Kyrie, Sanctus, communion, conclusion). Securite anti-repackaging.",
+  "date": "5 septembre 2026",
+  "beta": false
+ },
+ {
+  "versionCode": 4,
+  "versionName": "1.2.0",
+  "tag": "v1.2.0-4",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.2.0-4/app-release.apk",
+  "sha256": "55A7B03F3D45CAB67C8F73540719FCAF567267F236D15AB7613E0028B87C5ED1",
+  "notes": "bêta : fix navigation (Reglages mort), verre liquide ameliore, pilule chapitres, marquage de versets + rappel, canal createur prioritaire sur IA, langue secondaire des lectures, partage, 11 Bibles catalogue.",
+  "date": "4 septembre 2026",
+  "beta": true
+ },
+ {
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "tag": "v1.1.0-2",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.1.0-2/ora-1.1.0-2.apk",
+  "sha256": "4388B5F5BCA99C494FA80CE9A0186FA4854AF0ED7A6885320D7E8BCE5AB5656B",
+  "notes": "Bible complete 16 traductions (404k versets), TTS + mini-lecteur, notifications offices, auto-mise-a-jour canal GitHub, pre-telechargement, theme Nuit par defaut. Attention : sa mise a jour interne etait bloquee (corrigee en 1.2.1).",
+  "date": "3 septembre 2026",
+  "beta": false
+ }
+]
