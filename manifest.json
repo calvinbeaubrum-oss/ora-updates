@@ -1,9 +1,9 @@
 {
- "versionCode": 11,
- "versionName": "1.4.0-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.4.0-beta/app-release.apk",
- "sha256": "50D63EBAE2AAE32E19AE8D1985B4D879B9E35E24E78DEF1B89A835F9F653085C",
- "notes": "1) IA gratuite pour tous : la cle integree par le createur prend le relais — Expliquer, Homelie, Texte du matin et Assistant fonctionnent sans cle personnelle (homelies et questions profondes sur le modele avance). 2) Cache hors-ligne reparé : les textes pre-telecharges servent vraiment, plus de re-telechargement a chaque lancement. 3) Lectures en langue locale (creole, latin) qui ne s'affichaient jamais : reparées. 4) Texte du matin notifié une seule fois, a l'heure choisie. 5) Interface : intensite du verre reellement appliquee, pilule animee, transitions douces, lecteur PDF page a page (plus de crash), clavier ne masque plus la saisie, recherche Bible plus fluide. 6) Securité : anti-repackaging reel (certificat verifie), ecritures protegees contre la corruption. - BETA de test.",
+ "versionCode": 12,
+ "versionName": "1.5.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.0-beta/app-release.apk",
+ "sha256": "947F524AFAC1A993C16A16FCA1B1626854849EADC1244E981674765BDDE967B5",
+ "notes": "1) Lectures multilingues reparées : les livres sont retrouvés par NOM dans chaque Bible locale (les canons varient de 27 a 78 livres). 2) Langue de l'interface : Reglages -> Apparence -> Langue (telephone/francais/kreyol/english/espanol) — navigation et hubs suivent. 3) Noms de livres traduits en francais, textes non canoniques etiquetes. 4) Catalogue : 21 traductions sur le depot du createur. 5) IA : necessite une cle valide. - BETA de test.",
  "versions": [
   {
    "versionCode": 4,
@@ -15,13 +15,13 @@
    "sizeBytes": 23335993
   },
   {
-   "versionCode": 11,
-   "versionName": "1.4.0-beta",
-   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.4.0-beta/app-release.apk",
-   "sha256": "50D63EBAE2AAE32E19AE8D1985B4D879B9E35E24E78DEF1B89A835F9F653085C",
-   "notes": "Beta : IA gratuite integree, cache hors-ligne reparé, lectures locales reparées, interface polie, sécurité renforcée.",
+   "versionCode": 12,
+   "versionName": "1.5.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.0-beta/app-release.apk",
+   "sha256": "947F524AFAC1A993C16A16FCA1B1626854849EADC1244E981674765BDDE967B5",
+   "notes": "Beta : lectures multilingues par NOM, interface en plusieurs langues, noms de livres en francais, 21 traductions sur le depot du createur.",
    "beta": true,
-   "sizeBytes": 23370295
+   "sizeBytes": 23422650
   }
  ]
 }

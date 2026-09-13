@@ -1,5 +1,15 @@
 [
  {
+  "versionCode": 12,
+  "versionName": "1.5.0",
+  "tag": "v1.5.0-beta",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.0-beta/app-release.apk",
+  "sha256": "947F524AFAC1A993C16A16FCA1B1626854849EADC1244E981674765BDDE967B5",
+  "notes": "Messe multilingue réparée (livres retrouvés par NOM), interface en plusieurs langues (fr/ht/en/es), noms de livres en français, apocryphes étiquetés, 21 traductions sur le dépôt du créateur.",
+  "date": "13 septembre 2026",
+  "beta": true
+ },
+ {
   "versionCode": 11,
   "versionName": "1.4.0",
   "tag": "v1.4.0-beta",
