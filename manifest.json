@@ -1,7 +1,27 @@
 {
- "versionCode": 5,
- "versionName": "1.2.1",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.2.1-5/app-release.apk",
- "sha256": "A6FA01943C9973764E201A1CD34526792B7994C2EB754181B8FB225E2C280CA1",
- "notes": "1) FIX majeur : la mise a jour ne pouvait pas s installer depuis la 1.1.0 (permission installateur). Installez ce fichier une derniere fois manuellement, ensuite tout sera automatique. 2) Auto-verif du canal + notification. 3) Zoom pince sur tous les textes. 4) Detection langue du telephone. 5) Missel bilingue creole (Kyrie, Santis, communion, conclusion). 6) Securite anti-repackaging."
+ "versionCode": 10,
+ "versionName": "1.3.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.3.0-beta/app-release.apk",
+ "sha256": "9D198A24BAF4156F904CC14BD9458AD370104A2C78BA64F7C2FBEF137A721A0D",
+ "notes": "1) Mode sombre corrige : tous les textes lisibles (cause reelle trouvee). 2) Mise a jour professionnelle : pourcentage exact, taille, temps restant, pause/reprise sans perte, SHA-256 avant installation. 3) Choix de version : stable 1.2.0-4 ou beta, avec accord a chaque etape. 4) Mots recolles des textes corriges. 5) Mini-lecteur releve, derniere ligne jamais recouverte. 6) Prochaines mises a jour s'installeront seules. - BETA de test.",
+ "versions": [
+  {
+   "versionCode": 4,
+   "versionName": "1.2.0",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.2.0-4/app-release.apk",
+   "sha256": "55A7B03F3D45CAB67C8F73540719FCAF567267F236D15AB7613E0028B87C5ED1",
+   "notes": "Version stable de reference (1.2.0-4).",
+   "beta": false,
+   "sizeBytes": 23335993
+  },
+  {
+   "versionCode": 10,
+   "versionName": "1.3.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.3.0-beta/app-release.apk",
+   "sha256": "9D198A24BAF4156F904CC14BD9458AD370104A2C78BA64F7C2FBEF137A721A0D",
+   "notes": "Beta : mode sombre corrige, mise a jour professionnelle, choix de version.",
+   "beta": true,
+   "sizeBytes": 23337050
+  }
+ ]
 }
