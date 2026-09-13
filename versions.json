@@ -1,5 +1,25 @@
 [
  {
+  "versionCode": 11,
+  "versionName": "1.4.0",
+  "tag": "v1.4.0-beta",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.4.0-beta/app-release.apk",
+  "sha256": "50D63EBAE2AAE32E19AE8D1985B4D879B9E35E24E78DEF1B89A835F9F653085C",
+  "notes": "Passe d'auto-amélioration : IA gratuite pour tous (clé intégrée, homélies sur modèle avancé), cache hors-ligne réparé (les pré-téléchargements servent enfin), lectures en langue locale réparées (créole/latin jamais affichées), texte du matin une seule fois à l'heure choisie, lecteur PDF page à page (plus de crash), clavier, recherche Bible fluide, intensité du verre réelle, pilule animée, anti-repackaging réel (certificat en dur), écritures atomiques.",
+  "date": "13 septembre 2026",
+  "beta": true
+ },
+ {
+  "versionCode": 10,
+  "versionName": "1.3.0",
+  "tag": "v1.3.0-beta",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.3.0-beta/app-release.apk",
+  "sha256": "9D198A24BAF4156F904CC14BD9458AD370104A2C78BA64F7C2FBEF137A721A0D",
+  "notes": "Mode sombre corrigé (cause réelle trouvée), mise à jour professionnelle (pourcentage exact, taille, temps restant, pause/reprise sans perte, SHA-256 avant installation), choix de version, mots recollés corrigés, mini-lecteur relevé.",
+  "date": "12 septembre 2026",
+  "beta": true
+ },
+ {
   "versionCode": 5,
   "versionName": "1.2.1",
   "tag": "v1.2.1-5",
