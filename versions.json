@@ -1,5 +1,15 @@
 [
  {
+  "versionCode": 13,
+  "versionName": "1.5.1",
+  "tag": "v1.5.1-beta",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.1-beta/app-release.apk",
+  "sha256": "655B5DBB74AF42F12A4B1CB64F6229C9809F8A574434DD99FEDBA3EA1B7661D5",
+  "notes": "Livres des Bibles telechargees reparés (liste vide avant), interface Bible traduite (fr/ht/en/es).",
+  "date": "13 septembre 2026",
+  "beta": true
+ },
+ {
   "versionCode": 12,
   "versionName": "1.5.0",
   "tag": "v1.5.0-beta",
