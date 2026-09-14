@@ -1,5 +1,15 @@
 [
  {
+  "versionCode": 14,
+  "versionName": "1.5.2",
+  "tag": "v1.5.2-beta",
+  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.2-beta/app-release.apk",
+  "sha256": "D9F8491E3E833DAC7EAF407D8A17765647ED1FB4548016A944C66D058D27A14B",
+  "notes": "IA Gemini intégrée (vivante, gratuite pour tous) + repli quota ; tous correctifs 1.5.x.",
+  "date": "13 septembre 2026",
+  "beta": true
+ },
+ {
   "versionCode": 13,
   "versionName": "1.5.1",
   "tag": "v1.5.1-beta",

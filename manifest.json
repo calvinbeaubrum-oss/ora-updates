@@ -1,9 +1,9 @@
 {
- "versionCode": 13,
- "versionName": "1.5.1-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.1-beta/app-release.apk",
- "sha256": "655B5DBB74AF42F12A4B1CB64F6229C9809F8A574434DD99FEDBA3EA1B7661D5",
- "notes": "1) Liste des livres reparée pour les Bibles telechargees (l'ancien etait vide). 2) Interface traduite sur tout l'ecran Bible (francais/kreyol/english/espanol). 3) IA : necessite une cle valide. - BETA de test.",
+ "versionCode": 14,
+ "versionName": "1.5.2-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.2-beta/app-release.apk",
+ "sha256": "D9F8491E3E833DAC7EAF407D8A17765647ED1FB4548016A944C66D058D27A14B",
+ "notes": "IA GRATUITE POUR TOUS : la cle Gemini du createur est integree — Expliquer, Homelie, Assistant et Texte du matin fonctionnent immediatement, sans configuration. Modeles a jour avec repli automatique sur quota. + tous les correctifs 1.5.x (lectures multilingues, interface fr/ht/en/es, 21 Bibles sur le depot du createur). - BETA.",
  "versions": [
   {
    "versionCode": 4,
@@ -29,6 +29,15 @@
    "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.1-beta/app-release.apk",
    "sha256": "655B5DBB74AF42F12A4B1CB64F6229C9809F8A574434DD99FEDBA3EA1B7661D5",
    "notes": "Beta : livres des Bibles telechargees reparés, interface Bible traduite (fr/ht/en/es).",
+   "beta": true,
+   "sizeBytes": 23422650
+  },
+  {
+   "versionCode": 14,
+   "versionName": "1.5.2-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.2-beta/app-release.apk",
+   "sha256": "D9F8491E3E833DAC7EAF407D8A17765647ED1FB4548016A944C66D058D27A14B",
+   "notes": "Beta : IA Gemini integree et vivante (gratuite pour tous), repli quota automatique.",
    "beta": true,
    "sizeBytes": 23422650
   }
