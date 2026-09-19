@@ -1,9 +1,9 @@
 {
- "versionCode": 14,
- "versionName": "1.5.2-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.2-beta/app-release.apk",
- "sha256": "D9F8491E3E833DAC7EAF407D8A17765647ED1FB4548016A944C66D058D27A14B",
- "notes": "IA GRATUITE POUR TOUS : la cle Gemini du createur est integree — Expliquer, Homelie, Assistant et Texte du matin fonctionnent immediatement, sans configuration. Modeles a jour avec repli automatique sur quota. + tous les correctifs 1.5.x (lectures multilingues, interface fr/ht/en/es, 21 Bibles sur le depot du createur). - BETA.",
+ "versionCode": 15,
+ "versionName": "1.6.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.6.0-beta/app-release.apk",
+ "sha256": "86B3DCCB3E4CF2469B53519BF3EA66BFA11070C6CEC02FFC5700527D8B763DC7",
+ "notes": "Mise a jour majeure construite sur toutes les demandes du createur : copie par selection native avec filigrane invisible (copie ET partage), calendrier au tap sur la date, Messe avec lecture unique et plus aucun message de texte manquant, Breviaire traduit par l'IA et garde hors ligne, catalogue de Bibles etendu (56 langues), interface en 15 langues, IA qui repond dans votre langue, retour corrigé, historique de l'Assistant plein ecran avec recherche, notes avec sauvegarde automatique, lecture immersive. - BETA.",
  "versions": [
   {
    "versionCode": 4,
@@ -40,6 +40,15 @@
    "notes": "Beta : IA Gemini integree et vivante (gratuite pour tous), repli quota automatique.",
    "beta": true,
    "sizeBytes": 23422650
+  },
+  {
+   "versionCode": 15,
+   "versionName": "1.6.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.6.0-beta/app-release.apk",
+   "sha256": "86B3DCCB3E4CF2469B53519BF3EA66BFA11070C6CEC02FFC5700527D8B763DC7",
+   "notes": "Beta : filigrane invisible sur copie et partage, calendrier, Messe a lecture unique sans message manquant, Breviaire traduit IA hors ligne, Bibles 56 langues, interface 15 langues, retour corrige, Cabinet enrichi, lecture immersive.",
+   "beta": true,
+   "sizeBytes": 23814170
   }
  ]
 }
