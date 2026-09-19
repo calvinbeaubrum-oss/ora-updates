@@ -1,34 +1,16 @@
 {
- "versionCode": 16,
- "versionName": "1.6.1-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.6.1-beta/app-release.apk",
- "sha256": "120FA4CDD23A39B3C22935C591FA7A7BF7E3490E9C15A529D2B807BB82F85C35",
- "notes": "Corrections apres votre test : 209 Bibles accessibles (depot rendu public), reponses IA mises en forme proprement, Breviaire traduit automatiquement selon la langue, tap sur l'ecran pour afficher/masquer les barres, lecteur audio descendu en bas, PDF a defilement continu, Assistant epure, notes avec Deverouller sobre, questionnaire d'accueil remontre. L'IA exige une nouvelle cle Gemini (l'ancienne est revokee) : Reglages -> Assistant IA. - BETA.",
+ "versionCode": 17,
+ "versionName": "1.7.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.7.0-beta/app-release.apk",
+ "sha256": "5B10CAA6A7A130BA5ABF43562A2701DFA964CEB07DA8CD36C1C2A487B58686E6",
+ "notes": "MAJEURE : actions supplémentaires sur le texte (appui long sur un titre de lecture : Expliquer, Traduire, Copier filigrané, Ajouter aux notes) ; IA sans clé prête (relais Cloudflare Workers AI, guide inclus) ; réponses IA mises en forme et dans votre langue. - BETA.",
  "versions": [
-  {
-   "versionCode": 4,
-   "versionName": "1.2.0",
-   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.2.0-4/app-release.apk",
-   "sha256": "55A7B03F3D45CAB67C8F73540719FCAF567267F236D15AB7613E0028B87C5ED1",
-   "notes": "Version stable de reference (1.2.0-4).",
-   "beta": false,
-   "sizeBytes": 23335993
-  },
-  {
-   "versionCode": 14,
-   "versionName": "1.5.2-beta",
-   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.5.2-beta/app-release.apk",
-   "sha256": "D9F8491E3E833DAC7EAF407D8A17765647ED1FB4548016A944C66D058D27A14B",
-   "notes": "Beta : IA Gemini integree et vivante (gratuite pour tous), repli quota automatique.",
-   "beta": true,
-   "sizeBytes": 23422650
-  },
   {
    "versionCode": 15,
    "versionName": "1.6.0-beta",
    "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.6.0-beta/app-release.apk",
    "sha256": "86B3DCCB3E4CF2469B53519BF3EA66BFA11070C6CEC02FFC5700527D8B763DC7",
-   "notes": "Beta : filigrane invisible sur copie et partage, calendrier, Messe a lecture unique, Breviaire traduit IA hors ligne, interface 15 langues, retour corrige.",
+   "notes": "Beta : filigrane, calendrier, Messe lecture unique, interface 15 langues.",
    "beta": true,
    "sizeBytes": 23814170
   },
@@ -37,9 +19,18 @@
    "versionName": "1.6.1-beta",
    "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.6.1-beta/app-release.apk",
    "sha256": "120FA4CDD23A39B3C22935C591FA7A7BF7E3490E9C15A529D2B807BB82F85C35",
-   "notes": "Beta : 209 Bibles accessibles, IA mise en forme proprement, Breviaire traduit automatiquement, tap sur l'ecran, audio en bas, PDF continu, Assistant epure, notes sobres, questionnaire remontre.",
+   "notes": "Beta : 209 Bibles accessibles, PDF continu, Assistant épuré, questionnaire remonté.",
    "beta": true,
    "sizeBytes": 23830554
+  },
+  {
+   "versionCode": 17,
+   "versionName": "1.7.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.7.0-beta/app-release.apk",
+   "sha256": "5B10CAA6A7A130BA5ABF43562A2701DFA964CEB07DA8CD36C1C2A487B58686E6",
+   "notes": "Majeure : actions sur le texte par appui long, IA sans clé prête (relais Cloudflare), réponses mises en forme.",
+   "beta": true,
+   "sizeBytes": 23876162
   }
  ]
 }
