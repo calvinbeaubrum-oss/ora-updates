@@ -1,9 +1,9 @@
 {
- "versionCode": 17,
- "versionName": "1.7.0-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.7.0-beta/app-release.apk",
- "sha256": "5B10CAA6A7A130BA5ABF43562A2701DFA964CEB07DA8CD36C1C2A487B58686E6",
- "notes": "MAJEURE : actions supplémentaires sur le texte (appui long sur un titre de lecture : Expliquer, Traduire, Copier filigrané, Ajouter aux notes) ; IA sans clé prête (relais Cloudflare Workers AI, guide inclus) ; réponses IA mises en forme et dans votre langue. - BETA.",
+ "versionCode": 18,
+ "versionName": "1.8.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.8.0-beta/app-release.apk",
+ "sha256": "33A5CFC257A60D3D4A5E730765471BFC9D141CD9117612F55FCCF726A4E22D15",
+ "notes": "Version professionnelle : Assistant IA complet (arrêter, régénérer, copier/partager, renommer les conversations, tout effacer), réponses IA magnifiquement mises en forme (liens cliquables, code, citations), Texte du jour traduit et mis en avant, Messe écoutable à voix haute, Bible sans écran blanc et recherche cliquable, rappels demandés dès l'accueil, dates dans votre langue. - BETA",
  "versions": [
   {
    "versionCode": 15,
@@ -31,6 +31,15 @@
    "notes": "Majeure : actions sur le texte par appui long, IA sans clé prête (relais Cloudflare), réponses mises en forme.",
    "beta": true,
    "sizeBytes": 23876162
+  },
+  {
+   "versionCode": 18,
+   "versionName": "1.8.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.8.0-beta/app-release.apk",
+   "sha256": "33A5CFC257A60D3D4A5E730765471BFC9D141CD9117612F55FCCF726A4E22D15",
+   "notes": "Version professionnelle : Assistant IA complet (arrêter, régénérer, copier/partager, renommer les conversations, tout effacer), réponses IA magnifiquement mises en forme (liens cliquables, code, citations), Texte du jour traduit et mis en avant, Messe écoutable à voix haute, Bible sans écran blanc et recherche cliquable, rappels demandés dès l'accueil, dates dans votre langue. - BETA",
+   "beta": true,
+   "sizeBytes": 23892546
   }
  ]
 }
