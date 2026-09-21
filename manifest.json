@@ -1,9 +1,9 @@
 {
- "versionCode": 18,
- "versionName": "1.8.0-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.8.0-beta/app-release.apk",
- "sha256": "33A5CFC257A60D3D4A5E730765471BFC9D141CD9117612F55FCCF726A4E22D15",
- "notes": "Version professionnelle : Assistant IA complet (arrêter, régénérer, copier/partager, renommer les conversations, tout effacer), réponses IA magnifiquement mises en forme (liens cliquables, code, citations), Texte du jour traduit et mis en avant, Messe écoutable à voix haute, Bible sans écran blanc et recherche cliquable, rappels demandés dès l'accueil, dates dans votre langue. - BETA",
+ "versionCode": 19,
+ "versionName": "1.9.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.9.0-beta/app-release.apk",
+ "sha256": "03D6F575BE0D14A21558DE4F68E8D0C25377A94164F88023B5BE2031C6E4E28F",
+ "notes": "Le squelette respire : la pilule d'onglets s'efface enfin sur tous les sous-écrans (Notes, lecteur, Assistant, Réglages). Zoom à deux doigts sur le lecteur PDF continu, mini-lecteur audio sur la Messe, interface plus vivante (retour de pression, bulles animées), pièges classiques de code traqués et corrigés. - BETA",
  "versions": [
   {
    "versionCode": 15,
@@ -40,6 +40,15 @@
    "notes": "Version professionnelle : Assistant IA complet (arrêter, régénérer, copier/partager, renommer les conversations, tout effacer), réponses IA magnifiquement mises en forme (liens cliquables, code, citations), Texte du jour traduit et mis en avant, Messe écoutable à voix haute, Bible sans écran blanc et recherche cliquable, rappels demandés dès l'accueil, dates dans votre langue. - BETA",
    "beta": true,
    "sizeBytes": 23892546
+  },
+  {
+   "versionCode": 19,
+   "versionName": "1.9.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.9.0-beta/app-release.apk",
+   "sha256": "03D6F575BE0D14A21558DE4F68E8D0C25377A94164F88023B5BE2031C6E4E28F",
+   "notes": "Le squelette respire : la pilule d'onglets s'efface enfin sur tous les sous-écrans (Notes, lecteur, Assistant, Réglages). Zoom à deux doigts sur le lecteur PDF continu, mini-lecteur audio sur la Messe, interface plus vivante (retour de pression, bulles animées), pièges classiques de code traqués et corrigés. - BETA",
+   "beta": true,
+   "sizeBytes": 23908930
   }
  ]
 }
