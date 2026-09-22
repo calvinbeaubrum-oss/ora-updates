@@ -1,9 +1,9 @@
 {
- "versionCode": 19,
- "versionName": "1.9.0-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.9.0-beta/app-release.apk",
- "sha256": "03D6F575BE0D14A21558DE4F68E8D0C25377A94164F88023B5BE2031C6E4E28F",
- "notes": "Le squelette respire : la pilule d'onglets s'efface enfin sur tous les sous-écrans (Notes, lecteur, Assistant, Réglages). Zoom à deux doigts sur le lecteur PDF continu, mini-lecteur audio sur la Messe, interface plus vivante (retour de pression, bulles animées), pièges classiques de code traqués et corrigés. - BETA",
+ "versionCode": 20,
+ "versionName": "1.10.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.10.0-beta/app-release.apk",
+ "sha256": "B11A55E418A265A0802AAA37D0343A9118DD187FEE59C22EB0C6C4B57B22FFA8",
+ "notes": "La mise à jour des langues : Ora parle désormais parfaitement les quinze langues de l'app — 444 traductions complétées (créole, espagnol, portugais, italien, allemand…). Passages marqués, reprise de lecture, minuterie sommeil, ancres de la Messe, export de vos données et voix de lecture à votre choix. Vérification qualité complète : Android Lint sans erreur. - BETA",
  "versions": [
   {
    "versionCode": 15,
@@ -49,6 +49,15 @@
    "notes": "Le squelette respire : la pilule d'onglets s'efface enfin sur tous les sous-écrans (Notes, lecteur, Assistant, Réglages). Zoom à deux doigts sur le lecteur PDF continu, mini-lecteur audio sur la Messe, interface plus vivante (retour de pression, bulles animées), pièges classiques de code traqués et corrigés. - BETA",
    "beta": true,
    "sizeBytes": 23908930
+  },
+  {
+   "versionCode": 20,
+   "versionName": "1.10.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.10.0-beta/app-release.apk",
+   "sha256": "B11A55E418A265A0802AAA37D0343A9118DD187FEE59C22EB0C6C4B57B22FFA8",
+   "notes": "La mise à jour des langues : Ora parle désormais parfaitement les quinze langues de l'app — 444 traductions complétées (créole, espagnol, portugais, italien, allemand…). Passages marqués, reprise de lecture, minuterie sommeil, ancres de la Messe, export de vos données et voix de lecture à votre choix. Vérification qualité complète : Android Lint sans erreur. - BETA",
+   "beta": true,
+   "sizeBytes": 23803866
   }
  ]
 }
