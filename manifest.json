@@ -2,7 +2,7 @@
  "versionCode": 22,
  "versionName": "1.12.0-beta",
  "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.12.0-beta/app-release.apk",
- "sha256": "D80091CFB6227AABD455CC2D1F502F793C53F0BE456472F3DF539AE627DCD232",
+ "sha256": "B06396534AD087A99EA5F98548E1595E685CBCAD48B1F9DC1BDB5658A0B8EBB9",
  "notes": "Cinq voix neuronales vivent désormais dans l'app : français, anglais, espagnol, italien, portugais (le créole est lu par la voix française) — plus claires, entièrement hors ligne, aucune donnée envoyée. La lecture de la Bible, de la Messe, du Bréviaire et de l'Assistant choisit automatiquement la voix de sa langue. Corrections : le travail précédent ne compilait pas (erreur du Bréviaire réparée), la voix système suit la langue du texte lu, lecture disque retirée de l'affichage de la Bible. L'app grandit à 180 Mo : le prix assumé de la complétude demandée. - BETA",
  "versions": [
   {
@@ -72,7 +72,7 @@
    "versionCode": 22,
    "versionName": "1.12.0-beta",
    "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.12.0-beta/app-release.apk",
-   "sha256": "D80091CFB6227AABD455CC2D1F502F793C53F0BE456472F3DF539AE627DCD232",
+   "sha256": "B06396534AD087A99EA5F98548E1595E685CBCAD48B1F9DC1BDB5658A0B8EBB9",
    "notes": "Cinq voix neuronales vivent désormais dans l'app : français, anglais, espagnol, italien, portugais (le créole est lu par la voix française) — plus claires, entièrement hors ligne, aucune donnée envoyée. La lecture de la Bible, de la Messe, du Bréviaire et de l'Assistant choisit automatiquement la voix de sa langue. Corrections : le travail précédent ne compilait pas (erreur du Bréviaire réparée), la voix système suit la langue du texte lu, lecture disque retirée de l'affichage de la Bible. L'app grandit à 180 Mo : le prix assumé de la complétude demandée. - BETA",
    "beta": true,
    "sizeBytes": 180238688
