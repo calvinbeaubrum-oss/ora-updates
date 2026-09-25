@@ -1,9 +1,9 @@
 {
- "versionCode": 20,
- "versionName": "1.10.0-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.10.0-beta/app-release.apk",
- "sha256": "25A7501B88DC6FDA670EACFDC2FA660DC2CBD15BC873482BBF0958AB10BF5B6E",
- "notes": "Mise à jour Bréviaire : la navigation entre les sept offices est corrigée — un tap sur un office arrive toujours au bon endroit, chaque page affiche son office avec son propre état (texte, chargement, réessayer), et l'effet miroir pendant le balayage a disparu. S'ajoutent les acquis de ce cycle : 444 traductions (15 langues), voix de lecture au choix, minuterie sommeil, ancres de la Messe, export des données, mode nuit des PDF. Android Lint sans erreur. - BETA",
+ "versionCode": 21,
+ "versionName": "1.11.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.11.0-beta/app-release.apk",
+ "sha256": "522ADB2BAF67D72DBF65188ACADD614E2F0AE709943C2FC49540424938005361",
+ "notes": "Mise à jour Bréviaire et Messe : les deux offices revêtent la typographie des livres imprimés — filets rouges, titres serif, antiennes sous barre rouge, ℣ / ℟ et numéros de versets en rouge, réponses en italique. En-tête du Bréviaire en pilule de verre, les sept heures en gouttes, la Messe navigable par pilules d'ancres avec immersion paisible au défilement. Toute l'app s'harmonise en liquid glass : dialogue d'effacement en goutte de verre, chapitres de la Bible en pilules, barre d'onglets vivante dont l'indicateur glisse d'onglet en onglet et respire doucement. - BETA",
  "versions": [
   {
    "versionCode": 15,
@@ -56,6 +56,15 @@
    "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.10.0-beta/app-release.apk",
    "sha256": "25A7501B88DC6FDA670EACFDC2FA660DC2CBD15BC873482BBF0958AB10BF5B6E",
    "notes": "Mise à jour Bréviaire : la navigation entre les sept offices est corrigée — un tap sur un office arrive toujours au bon endroit, chaque page affiche son office avec son propre état (texte, chargement, réessayer), et l'effet miroir pendant le balayage a disparu. S'ajoutent les acquis de ce cycle : 444 traductions (15 langues), voix de lecture au choix, minuterie sommeil, ancres de la Messe, export des données, mode nuit des PDF. Android Lint sans erreur. - BETA",
+   "beta": true,
+   "sizeBytes": 23803866
+  },
+  {
+   "versionCode": 21,
+   "versionName": "1.11.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.11.0-beta/app-release.apk",
+   "sha256": "522ADB2BAF67D72DBF65188ACADD614E2F0AE709943C2FC49540424938005361",
+   "notes": "Mise à jour Bréviaire et Messe : les deux offices revêtent la typographie des livres imprimés — filets rouges, titres serif, antiennes sous barre rouge, ℣ / ℟ et numéros de versets en rouge, réponses en italique. En-tête du Bréviaire en pilule de verre, les sept heures en gouttes, la Messe navigable par pilules d'ancres avec immersion paisible au défilement. Toute l'app s'harmonise en liquid glass : dialogue d'effacement en goutte de verre, chapitres de la Bible en pilules, barre d'onglets vivante dont l'indicateur glisse d'onglet en onglet et respire doucement. - BETA",
    "beta": true,
    "sizeBytes": 23803866
   }
