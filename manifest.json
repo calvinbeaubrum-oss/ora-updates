@@ -1,9 +1,9 @@
 {
- "versionCode": 21,
- "versionName": "1.11.0-beta",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.11.0-beta/app-release.apk",
- "sha256": "522ADB2BAF67D72DBF65188ACADD614E2F0AE709943C2FC49540424938005361",
- "notes": "Mise à jour Bréviaire et Messe : les deux offices revêtent la typographie des livres imprimés — filets rouges, titres serif, antiennes sous barre rouge, ℣ / ℟ et numéros de versets en rouge, réponses en italique. En-tête du Bréviaire en pilule de verre, les sept heures en gouttes, la Messe navigable par pilules d'ancres avec immersion paisible au défilement. Toute l'app s'harmonise en liquid glass : dialogue d'effacement en goutte de verre, chapitres de la Bible en pilules, barre d'onglets vivante dont l'indicateur glisse d'onglet en onglet et respire doucement. - BETA",
+ "versionCode": 22,
+ "versionName": "1.12.0-beta",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.12.0-beta/app-release.apk",
+ "sha256": "D80091CFB6227AABD455CC2D1F502F793C53F0BE456472F3DF539AE627DCD232",
+ "notes": "Cinq voix neuronales vivent désormais dans l'app : français, anglais, espagnol, italien, portugais (le créole est lu par la voix française) — plus claires, entièrement hors ligne, aucune donnée envoyée. La lecture de la Bible, de la Messe, du Bréviaire et de l'Assistant choisit automatiquement la voix de sa langue. Corrections : le travail précédent ne compilait pas (erreur du Bréviaire réparée), la voix système suit la langue du texte lu, lecture disque retirée de l'affichage de la Bible. L'app grandit à 180 Mo : le prix assumé de la complétude demandée. - BETA",
  "versions": [
   {
    "versionCode": 15,
@@ -67,6 +67,15 @@
    "notes": "Mise à jour Bréviaire et Messe : les deux offices revêtent la typographie des livres imprimés — filets rouges, titres serif, antiennes sous barre rouge, ℣ / ℟ et numéros de versets en rouge, réponses en italique. En-tête du Bréviaire en pilule de verre, les sept heures en gouttes, la Messe navigable par pilules d'ancres avec immersion paisible au défilement. Toute l'app s'harmonise en liquid glass : dialogue d'effacement en goutte de verre, chapitres de la Bible en pilules, barre d'onglets vivante dont l'indicateur glisse d'onglet en onglet et respire doucement. - BETA",
    "beta": true,
    "sizeBytes": 23803866
+  },
+  {
+   "versionCode": 22,
+   "versionName": "1.12.0-beta",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/ora-updates/releases/download/v1.12.0-beta/app-release.apk",
+   "sha256": "D80091CFB6227AABD455CC2D1F502F793C53F0BE456472F3DF539AE627DCD232",
+   "notes": "Cinq voix neuronales vivent désormais dans l'app : français, anglais, espagnol, italien, portugais (le créole est lu par la voix française) — plus claires, entièrement hors ligne, aucune donnée envoyée. La lecture de la Bible, de la Messe, du Bréviaire et de l'Assistant choisit automatiquement la voix de sa langue. Corrections : le travail précédent ne compilait pas (erreur du Bréviaire réparée), la voix système suit la langue du texte lu, lecture disque retirée de l'affichage de la Bible. L'app grandit à 180 Mo : le prix assumé de la complétude demandée. - BETA",
+   "beta": true,
+   "sizeBytes": 180238688
   }
  ]
 }
